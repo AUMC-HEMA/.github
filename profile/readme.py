@@ -17,7 +17,6 @@ manuscript_tree.add("[bold link=https://github.com/AUMC-HEMA/cMRD-manuscript]cMR
 contributor_tree = tree.add("👨‍💻 Contributors", guide_style="bright_black")
 postdoc_tree = contributor_tree.add("👨‍💻 Postdoctoral scientists", guide_style="bright_black")
 postdoc_tree.add("[bold link=https://researchinformation.amsterdamumc.org/en/persons/costa-bachas]Costa Bachas[/] - [bright_black]Postdoc")
-postdoc_tree.add("[bold link=https://researchinformation.amsterdamumc.org/en/persons/costa-bachas]Philip Rutten[/] - [bright_black]Postdoc")
 
 phd_tree = contributor_tree.add("👨‍💻 PhD students", guide_style="bright_black")
 phd_tree.add("[bold link=https://timmocking.github.io]Tim Mocking[/] - [bright_black]Computational analysis of myeloid malignancies")
